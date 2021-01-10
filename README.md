@@ -6,7 +6,7 @@ Ce projet, réalisé dans le cadre du cours **Machine Learning** de Professeur V
 
 * Recenser le maximum d'offres postées sur les principaux sites immobiliers de la Côte d'Ivoire et du Sénégal à une date donnée (l'extraction pourra s'étaler sur quelques jours ou quelques semaines). Les données seront extraites par une technique de web-scraping utilisant Python ou une autre technologie adaptée. Les données devront contenir les informations suivantes : la surface, le lien Internet de l'annonce, l'adresse, la ville, la région, le prix, la surface (du logement, pas celle du terrain s'agissant des maisons), le nombre de pièces, le descriptif de l'annonce, la mention du caractère ancien ou neuf du logement qu'on pourra signaler par "N" ou "A", la nature du bien (maison, appartement...). Si des frais ou des taxes sont inclus et identifiables, ils devront idéalement être mentionnés ;
 * **Problématique :** Identifier les meilleurs investissements locatifs ;
-* **Modélisation :** Utiliser un prédicteur de prix au mètre carré pour les biens locatifs et un autre prédicteur pour les achats. Pour un nouveau bien ayant des caractéristiques déterminées trouver le rendement en pourcent à l'an.
+* **Modélisation :** Utiliser un prédicteur de prix au mètre carré pour les biens locatifs et un autre prédicteur pour les achats. Pour un nouveau bien ayant des caractéristiques déterminées trouver le rendement en pourcentage à l'année.
 
 ## Composition du repositoire
 
