@@ -1,6 +1,6 @@
 # Projet immobilier
 
-Ce projet, réalisé dans le cadre du cours **Machine Learning** de Professeur Vincent Perrollaz en M2 Mécen, est mon premier projet de webscraping. Ce projet a pour but d'utiliser les techniques de webscraping acquises lors du cours en plus des techniques d'analyse statistique avancées.
+Ce projet, réalisé dans le cadre du cours **Machine Learning** de Professeur Vincent Perrollaz en M2 Mécen, est mon premier projet de webscraping. Ce projet a pour but d'utiliser les techniques de webscraping et d'application des algorithmes ML acquises lors du cours en plus des techniques d'analyse statistique avancées.
 
 ## Objectifs
 
