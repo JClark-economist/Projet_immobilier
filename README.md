@@ -20,7 +20,7 @@ La phase de scraping a été réalisée à l'aide de deux notebook et d'un dossi
 
 * `scraping_senegal.py` : contient le scraping réalisé sur les deux plus gros sites d'immobilier au Sénégal, **senegalcity.com**, **1000-annonces.sn** et **deals.jumia.sn** ;
 * `scraping_ci.py` : contient le scraping réalisé sur le plus gros site d'immobilier en Côte d'ivoire, **deals.jumia.ci** ;
-* `Essai_scrapy` : au vu de la lenteur de `selenium` (pour récupérer un total de 120 000 données), pour accélérer le processus j'ai tenté de commencer à utiliser `scrapy` avec `PostgreSQL` mais par manque de temps je n'ai pas pu développer cette solution.
+* `Essai_scrapy` : au vu de la lenteur de `selenium` (pour récupérer un total de 200 000 données), pour accélérer le processus j'ai tenté de commencer à utiliser `scrapy` avec `PostgreSQL` mais par manque de temps je n'ai pas pu développer cette solution.
 
 ### La phase de nettoyage
 
